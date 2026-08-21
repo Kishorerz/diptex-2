@@ -1,4 +1,6 @@
 # Image Capture and Video Processing Using OpenCV
+## Name : Kishor kumar B
+## Reg No: 212223240072
 
 ## Aim
 
@@ -118,7 +120,8 @@ cap.release()
 
 Captured image is saved as **captured_image.jpg**
 
-![Captured Image](output_images/output_1.png)
+<img width="496" height="376" alt="image" src="https://github.com/user-attachments/assets/357e1356-6830-46fc-9475-9a769dfdd1a5" />
+
 
 ---
 
@@ -126,7 +129,7 @@ Captured image is saved as **captured_image.jpg**
 
 Live webcam video is displayed.
 
-![Live Video](output_images/output_2.png)
+<img width="498" height="369" alt="image" src="https://github.com/user-attachments/assets/b30f77ee-7032-4d5d-a742-cf9eb20aebb0" />
 
 ---
 
@@ -134,7 +137,7 @@ Live webcam video is displayed.
 
 Video is displayed in resized resolution (640 × 480).
 
-![Resized Video](output_images/output_3.png)
+<img width="251" height="376" alt="image" src="https://github.com/user-attachments/assets/39861b04-ec8a-4b97-a164-835a51d69ac6" />
 
 ---
 
@@ -142,7 +145,7 @@ Video is displayed in resized resolution (640 × 480).
 
 Video is displayed after rotating the frame (90° clockwise).
 
-![Rotated Video](output_images/output_4.png)
+<img width="280" height="368" alt="image" src="https://github.com/user-attachments/assets/81275f6d-947a-4c22-bd47-586a5a45e05c" />
 
 ---
 
